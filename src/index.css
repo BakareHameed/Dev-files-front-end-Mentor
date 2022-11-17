@@ -12,29 +12,22 @@
     box-sizing: border-box;
     list-style: none;
     text-decoration: none;
-    background-color: black;
 }
 
 body{
     font-family: 'Poppins', Arial;
+    background-color: black;
 }
 
-.primary{
-    background-color: rgba(192, 13, 13, 0.884);
-  }
-  
+.black{
+    background-color: black;
+}
 
 :root{
     --container-width-lg: 75%;
     --container-width-md: 86%;
     --container-width-sm: 90%;
 }
-
-.white{
-    background-color: white;
-}
-
-
 
 /* .container{
     width: var(--container-width-lg);

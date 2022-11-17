@@ -1,3 +1,23 @@
 .hero{
     color: white;
 }
+
+.logos{
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 1fr 1fr;
+
+}
+
+.about{
+    background-color: rgba(128, 128, 128, 0.329);
+    color: white;
+}
+
+.yellow{
+    background-color: rgba(255, 255, 0, 0.678);
+    
+}
+
+.footer{
+    background-color:  rgba(128, 128, 128, 0.329);
+}
