@@ -4,7 +4,7 @@ import Yelp from './img/YelpCamp.png'
 
 const Contents = () => {
   return (
-    <div className='mt-20 text-white lg:flex lg:justify-around lg:flex  md:mx-auto'>
+    <div className='mt-20 text-white lg:flex lg:justify-around md:mx-auto'>
       <div className='mb-10 '>
         <img src={Spense} alt="Spense" className='' />
         <h1 className='text-4xl p-5'>Spense.com</h1>

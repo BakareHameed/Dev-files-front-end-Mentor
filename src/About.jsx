@@ -3,7 +3,7 @@ import './App.css'
 
 const About = () => {
   return (
-    <div className='mt-10 about lg:flex w-full'>
+    <div className='mt-10 p-5 about lg:flex w-full'>
         <div>
             <h1 className='text-4xl  p-3'>A co-founder at one of the world's largest communities</h1>
             <p className='text-gray-400  p-3'>The combined experience i have working at thr top Fortune 500 companies

@@ -38,7 +38,7 @@ const Header = () => {
               </ul>
             </nav>
 
-            <button className='p-3 yellow text-black'>Get in touch</button>
+            <button className='p-3 yellow text-black md:flex hidden'>Get in touch</button>
 
     
     
